@@ -5,8 +5,12 @@
     A passionate Full-stack developer specializing in modern JavaScript/ Typescript, Python, and cloud-native architectures, building production-grade apps with Next.js, React, FastAPI, and Node.js across MongoDB/MySQL backends and AWS/Cloudflare infrastructure. Focused on real-time, AI-powered, and edge-deployed products—such as collaborative editors, AI code tools, and fintech dashboards—optimizing for performance, DX, and scalability from frontend UX to backend systems and DevOps.
   </font>
 </p>
-  <!-- <img align="right" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shisui-genjutsu" /> -->
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bhaskar-Guthula-137&label=Profile%20views&color=0e75b6&style=flat" alt="Bhaskar-Guthula-137" /> </p>
+  <!-- <p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Bhaskar-Guthula-137&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  /> -->
+</p>
 </p>
 
 <h3 align="center">Connect with me:</h3>
